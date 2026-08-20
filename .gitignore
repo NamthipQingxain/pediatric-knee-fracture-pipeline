@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Ignore large image datasets
+testA/
+testB/
+trainA/
+trainB/
+Dataset/
+Knee_Fracture/
+Normal_Age/
