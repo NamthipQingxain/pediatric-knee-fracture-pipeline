@@ -37,3 +37,5 @@ Developed by a Computer Engineering & AI Student @PIM, passionate about Data Ana
 This project and my core technical skills have been recognized at the following national events:
 
 * **BRIDGE-AI Summit 2026:** Exhibition Participant (Rising Innovator, Medical AI) — Presented this pediatric knee fracture prediction system. [View Certificate](./Bridge_Certificate.pdf)
+* **True CyberSafe x TrueMoney Hackathon 2025:** Top 6 High-Performance Award (out of 89 teams nationwide). [View Certificate](./True_Hackathon_Top6.pdf)
+* **VEX Robotics Competition Thailand National Championship 2025-2026:** Active Volunteer. [View Certificate](./VEX_Robotics_Volunteer.pdf)
